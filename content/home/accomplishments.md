@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Certificates"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,48 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  organization = "HarvardX, edX"
+  organization_url = "https://www.edx.org"
+  title = "Statistics and R (PH525.1x)"
+  certificate_url = "https://courses.edx.org/certificates/4333081061094f8188b7085b6c6268eb"
+  date_start = "2017-07-20"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
+  organization = "HarvardX, edX"
   organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  title = "Introduction to Linear Models and Matrix Algebra (PH525.2x)"
+  certificate_url = "https://courses.edx.org/certificates/9ac5896c523347629f525529d83acaea"
+  date_start = "2017-07-26"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
+  description = ""
+
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  organization = "HarvardX, edX"
+  organization_url = "https://www.edx.org"
+  title = "Statistical Inference and Modeling for High-throughput Experiments (PH525.3x)"
+  certificate_url = "https://courses.edx.org/certificates/1b4f8375568048cba6504c4c811418c8"
+  date_start = "2017-08-02"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "HarvardX, edX"
+  organization_url = "https://www.edx.org"
+  title = "High-Dimensional Data Analysis (PH525.4x)"
+  certificate_url = "https://courses.edx.org/certificates/b06f88677a724a04a1d395c804e74d15"
+  date_start = "2017-08-05"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Stanford Online, Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Machine Learning"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/WGYL5HNCUS3Y"
+  date_start = "2021-10-30"
+  date_end = ""
   description = ""
 
 +++
