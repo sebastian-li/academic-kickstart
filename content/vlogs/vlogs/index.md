@@ -53,17 +53,23 @@ slides: ""
 
 ## Other miscellaneous projects
 
+* Video I made for program recruitment: HSC Campus and USC Village Tour
+{{< youtube ihag46fmqdI >}}
+
 * Bootcamp video 90s for KSOM
 {{< youtube ouyMcFfTHys >}}
 
 * USC class video for Nobel research
 {{< youtube La_mGGbnPPQ >}}
 
-* WONDERSTAR -- a local Louisville KY band
-{{< youtube 8-5iiQI5vGo >}}
+* One day in a PIBBS USC PhD's life
+{{< youtube 8ojt_Pa5jIs >}}
 
 * That one time I talked to Kobe Bryant on TV (Mandarin, with English subtitle)
 {{< youtube ixMLcTB5jTg >}}
+
+* WONDERSTAR -- a local Louisville KY band
+{{< youtube 8-5iiQI5vGo >}}
 
 * A video commissioned by Medtronic diabetes department for their end of year party (Mandarin)
 {{< youtube Zqvxez6vFLg >}}

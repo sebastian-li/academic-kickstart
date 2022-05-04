@@ -1,3 +1,5 @@
+# /Users/bo/Documents/Personal/Resume/academic-kickstart/./pushChange.sh
+
 cd /Users/bo/Documents/Personal/Resume/academic-kickstart
 
 git add .
