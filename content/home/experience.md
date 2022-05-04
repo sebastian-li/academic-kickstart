@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2022-05-15"
   date_end = ""
   description = """
-  Responsibilities include:
+  ---
   
   * Led a meta-analysis project of US National Institutes of Health (NIH) Pregnancy and Childhood Epigenetics (PACE) study about the effects of birth order on perinatal DNA methylation
   * Participated in a meta-analysis project of NIH PACE study on the association of C-section and perinatal DNA methylation led by Harvard T.H. Chan School of Public Health
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   date_start = "2019-06-01"
   date_end = "2022-05-15"
   description = """
-  Responsibilities include:
+  ---
   
   * Genetic and epigenetic analysis of leukemia, pediatric glioma, and other childhood cancers
   """
@@ -55,7 +55,7 @@ date_format = "Jan 2006"
   date_start = "2019-07-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  ---
   
   * Genetic association and ancestry analyses for CCLS (California Childhood Leukemia Study)
   """
@@ -68,7 +68,7 @@ date_format = "Jan 2006"
   date_start = "2014-09-01"
   date_end = "2018-06-01"
   description = """
-  Responsibilities include:
+  ---
   
   * Glucose metabolic dysfunction in OSAHS patients and its interference with CPAP (Department of Respiration)
   * FENO as a novel respiratory indicator for patients with OSAHS (Department of Respiration)
@@ -83,7 +83,7 @@ date_format = "Jan 2006"
   date_start = "2014-06-01"
   date_end = "2018-06-01"
   description = """
-  Responsibilities include:
+  ---
   
   * Online English learning platform with originally designed courses in written and oral English
   """
@@ -96,7 +96,7 @@ date_format = "Jan 2006"
   date_start = "2013-11-01"
   date_end = "2013-12-01"
   description = """
-  Responsibilities include:
+  ---
   
   * Processed invoicing data, assisted in constructing hematology ward in Ruijin Hospital
   """

@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: []
 
 interests:
 - Bioinformatics (genetic, epigenetic, ancestry analysis)
@@ -27,15 +27,12 @@ interests:
 
 education:
   courses:
-  - course: Doctor of Philosophy in Cancer Biology and Genomics (Bioinformatics)
-    institution: University of Southern California (CA, USA)
-    time: 2018.08 – 2022.05
-    thesis: Perinatal epigenetic and genetic analyses in childhood cancers
-    advisor: Dr Joseph L. Wiemels, Dr Adam de Smith
-  - course: Bachelor of Medicine (Forensic medicine)
-    institution: Fudan University (Shanghai, China)
-    time: 2009.09 – 2014.06
-    coursework: Anatomy, Psychiatry, Radiology, Surgery, Internal Medicine, Obstetrics and Gynecology
+  - course: PhD in Cancer Biology and Genomics (Bioinformatics)
+    institution: University of Southern California
+    year: 2018 – 2022
+  - course: Bachelor of Medicine
+    institution: Fudan University
+    year: 2009 – 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -45,6 +42,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:sebastian.li@outlook.com  # For a direct email link, use "mailto:test@example.org".
+- icon: cv
+  icon_pack: ai
+  link: files/shaobo_cv.pdf
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/bodostats
@@ -53,9 +53,6 @@ social:
   link: https://www.linkedin.com/in/sebastian-shaobo-li-22864217/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-- icon: cv
-  icon_pack: ai
-  link: files/shaobo_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -67,6 +64,7 @@ email: ""
 #- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Sebastian (Shaobo) Li. I am currently working as a postdoc at center for genetic epidemiology at University of Souther California (USC).
+I recently graduated from the Cancer Biology and Genomics PhD program at USC Keck School of Medicine. Advised by two amazing scientists, [Dr Joseph L. Wiemels](https://keck.usc.edu/faculty-search/joseph-leo-wiemels/) and [Dr Adam de Smith](https://keck.usc.edu/faculty-search/adam-de-smith/) during my PhD, I was trained as a bioinformatician with a focus on genetic epidemiology. My research involves using genetic and epigenetic association analyses, ancestry analyses and machine learning/deep learning models to understand risks of childhood cancers. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I have a wide range of interest and learning new tools, ideas and skills always excites me.

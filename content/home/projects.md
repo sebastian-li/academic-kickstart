@@ -2,11 +2,11 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 70  # Order that this section will appear.
 
-title = "Projects"
-subtitle = ""
+title = "Other Skills"
+subtitle = "Digital multimedia production."
 
 [content]
   # Page type to display. E.g. project.
@@ -56,8 +56,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+  gradient_start = "IndianRed"
+  gradient_end = "LightSalmon"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
@@ -74,3 +74,4 @@ subtitle = ""
  css_class = ""
 +++
 
+Proficient in graphic and video productions using Adobe Suite (Photoshop, Illustrator, Lightroom, After Effect), and Apple Final Cut Pro.
