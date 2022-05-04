@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Sebastian Li VLOG series"
-summary: "My vlogs"
+title: "Other videos I made"
+summary: "My other miscellaneous projects"
 authors: []
 tags: []
 categories: []
@@ -39,18 +39,33 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-* Vlog File 03: Me and my friends at 2019 LA pride parade #gaypride
-{{< youtube lyvVDMK6Tes >}}
+
+* Video I made for program recruitment: HSC Campus and USC Village Tour
+{{< youtube ihag46fmqdI >}}
 ---
 
-* Vlog File 02: My buddy got a car and took me on a ride
-{{< youtube aIvqaU58XvM >}}
+* Bootcamp video 90s for KSOM
+{{< youtube ouyMcFfTHys >}}
 ---
 
-* Vlog File 01: KAT's friends are in town and we show them around LA
-{{< youtube ofG72jVGgww >}}
+* USC class video for Nobel research
+{{< youtube La_mGGbnPPQ >}}
 ---
 
-* Vlog File China 01: Travelling to Putuo City, Zhejiang Province, China
-{{< youtube dFiB0Bqd024 >}}
+* One day in a PIBBS USC PhD's life
+{{< youtube 8ojt_Pa5jIs >}}
 ---
+
+* That one time I talked to Kobe Bryant on TV (Mandarin, with English subtitle)
+{{< youtube ixMLcTB5jTg >}}
+---
+
+* WONDERSTAR -- a local Louisville KY band
+{{< youtube 8-5iiQI5vGo >}}
+---
+
+* A video commissioned by Medtronic diabetes department for their end of year party (Mandarin)
+{{< youtube Zqvxez6vFLg >}}
+---
+
+
