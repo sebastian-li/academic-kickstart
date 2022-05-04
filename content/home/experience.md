@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Predoctoral fellow, Research Assistant"
+  title = "Research Affiliate"
   company = "University of California, Berkeley, School of Public Health"
   company_url = ""
   location = "Berkeley, CA"
