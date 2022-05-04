@@ -2,7 +2,7 @@
 # A Recent Publications section created with the Pages widget.
 # This section displays recent blog posts from `content/publication/`.
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
@@ -14,24 +14,50 @@ subtitle = ""
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
   
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 0
-  
-  # Choose how many pages you would like to offset by
-  offset = 0
+  # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
+  filter_default = 0
+ 
+  [[content.filter_button]]
+   name = "All"
+   tag = "*"
 
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
+  [[content.filter_button]]
+   name = "first author"
+   tag = "first author"
 
-  
+  [[content.filter_button]]
+   name = "bioinformatics"
+   tag = "bioinformatics"
+
+  [[content.filter_button]]
+   name = "machine learning"
+   tag = "machine learning"
+
+  [[content.filter_button]]
+   name = "brain tumor"
+   tag = "brain tumor"
+
+  [[content.filter_button]]
+   name = "blood tumor"
+   tag = "blood tumor"
+
+  [[content.filter_button]]
+   name = "other cancer"
+   tag = "other cancer"
+
 [design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
+
   # Toggle between the various page layout types.
   #   1 = List
-  #   2 = Compact
   #   3 = Card
-  #   4 = Citation (publication only)
+  #   5 = Showcase
   view = 2
-  
+
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows = false
+
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
