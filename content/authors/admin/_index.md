@@ -14,7 +14,7 @@ role: PhD in Cancer Biology and Genomics
 
 # Organizations/Affiliations
 organizations:
-- name: University of Souther California
+- name: University of Southern California
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
