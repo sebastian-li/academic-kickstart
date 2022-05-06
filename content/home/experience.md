@@ -87,18 +87,4 @@ date_format = "Jan 2006"
   
   * Online English learning platform with originally designed courses in written and oral English
   """
-  
- [[experience]]
-  title = "Marketing Intern"
-  company = "Roche Pharmaceuticals (Mabthera)"
-  company_url = ""
-  location = "Shanghai, China"
-  date_start = "2013-11-01"
-  date_end = "2013-12-01"
-  description = """
-  ---
-  
-  * Processed invoicing data, assisted in constructing hematology ward in Ruijin Hospital
-  """
-
 +++
