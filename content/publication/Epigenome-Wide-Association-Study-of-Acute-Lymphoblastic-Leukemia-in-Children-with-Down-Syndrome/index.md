@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Epigenome-Wide Association Study of Acute Lymphoblastic Leukemia in Children with Down Syndrome"
+title: "Epigenome-Wide Association Study of Acute Lymphoblastic Leukemia in Children with Down Syndrome (Conference)"
 authors: [Shaobo Li, Pagna Sok, Keren X, Ivo S Muskens, Natalina Elliott, Swe Swe Myint, Priyatama Pandey, Helen M. Hansen, Libby M Morimoto, Alice Y. Kang, Catherine Metayer, Xiaomei Ma, Beth A Mueller, Anindita Roy, Irene Roberts, Karen R Rabin, Austin L. Brown, Philip J. Lupo, Joseph L. Wiemels, Adam J. de Smith]
 date: 2021-12-11
 doi: ""
