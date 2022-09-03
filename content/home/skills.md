@@ -85,7 +85,7 @@ subtitle = ""
   icon = "dna"
   icon_pack = "fas"
   name = "Bioinformatics"
-  description = "EWAS, GWAS (SNPTEST, PLINK), WDL, GATK, Singularity"
+  description = "EWAS, GWAS (SNPTEST, PLINK), GATK, Singularity"
 
 [[feature]]
   icon = "language"
