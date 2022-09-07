@@ -24,7 +24,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ['first author','blood cancer']
+tags: ['blood tumor','first author','bioinformatics']
 categories: []
 featured: false
 
