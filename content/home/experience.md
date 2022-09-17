@@ -28,10 +28,12 @@ date_format = "Jan 2006"
   description = """
   ---
   
-  * Led a meta-analysis project of US National Institutes of Health (NIH) Pregnancy and Childhood Epigenetics (PACE) study about the effects of birth order on perinatal DNA methylation
-  * Participated in a meta-analysis project of NIH PACE study on the association of C-section and perinatal DNA methylation led by Harvard T.H. Chan School of Public Health
-  * Led collaborations with European (Danish and Sweden) cohorts on meta-analysis of childhood glioma GWAS studies
-  * Trained new PhD students and pediatrician research follows
+  * Adopted machine learning and deep learning methods to predict childhood leukemia, and eye diseases with DNA methylation data
+  * Designed pipelines for germline and somatic variant discovery of WGS and WES data
+  * Led an NIH 12-country-cohort EWAS project studying birth order and perinatal DNA methylation 
+  * Led a multi-cohort GWAS project on childhood glioma
+  * Trained new PhD students and pediatrician research fellows                                               
+
   """
 
 [[experience]]
@@ -44,7 +46,8 @@ date_format = "Jan 2006"
   description = """
   ---
   
-  * Genetic and epigenetic analysis of leukemia, pediatric glioma, and other childhood cancers
+  * Conducted high-throughput association models (GWAS, EWAS) to investigate the associations between neonatal (epi-)genetic changes and disease risks
+  * Conducted ancestry analysis to investigate contribution of European ancestry to Latino population disease risks
   """
 
 [[experience]]
@@ -57,11 +60,12 @@ date_format = "Jan 2006"
   description = """
   ---
   
-  * Genetic association and ancestry analyses for CCLS (California Childhood Leukemia Study)
+  * Conducted childhood leukemia GWAS analyses; pesticide exposure EWAS analysis 
+  * Assessed telomere length and aging changes using DNA methylation data in children with childhood leukemia. 
   """
 
 [[experience]]
-  title = "Assistant Clinical Researcher (Volunteer)"
+  title = "Volunteer Clinical Researcher"
   company = "Zhongshan Hospital"
   company_url = ""
   location = "Shanghai, China"
@@ -70,21 +74,7 @@ date_format = "Jan 2006"
   description = """
   ---
   
-  * Glucose metabolic dysfunction in OSAHS patients and its interference with CPAP (Department of Respiration)
-  * FENO as a novel respiratory indicator for patients with OSAHS (Department of Respiration)
-  * Application of CT-based radiomics in predicting portal pressure and patient outcome in portal hypertension (Department of Gastroenterology)
+  * Applied machine learning methods to predict portal pressure and patient outcome from CT-based radiomics
   """
 
-[[experience]]
-  title = "Founder and English Lecturer"
-  company = "LOFT Education"
-  company_url = ""
-  location = "Online, China"
-  date_start = "2014-06-01"
-  date_end = "2018-06-01"
-  description = """
-  ---
-  
-  * Online English learning platform with originally designed courses in written and oral English
-  """
 +++

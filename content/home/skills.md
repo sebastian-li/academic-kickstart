@@ -34,15 +34,15 @@ subtitle = ""
   description = ""
 
 [[feature]]
-  icon = "java"
-  icon_pack = "fab"
-  name = "JAVA"
-  description = ""
-
-[[feature]]
   icon = "code"
   icon_pack = "fas"
   name = "SAS"
+  description = ""
+
+[[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "JAVA"
   description = ""
 
 [[feature]]
@@ -57,6 +57,12 @@ subtitle = ""
   name = "SPSS"
   description = ""
 
+[[feature]]
+  icon = "code"
+  icon_pack = "fas"
+  name = "SQLITE"
+  description = ""
+  
 [[feature]]
   icon = "code"
   icon_pack = "fas"
