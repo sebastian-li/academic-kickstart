@@ -27,12 +27,11 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   ---
-  
-  * Adopted machine learning and deep learning methods to predict childhood leukemia, and eye diseases with DNA methylation data
-  * Designed pipelines for germline and somatic variant discovery of WGS and WES data
-  * Led an NIH 12-country-cohort EWAS project studying birth order and perinatal DNA methylation 
-  * Led a multi-cohort GWAS project on childhood glioma
-  * Trained new PhD students and pediatrician research fellows                                               
+
+  * Led multiple large scale GWAS and EWAS projects on childhood cancers
+  * Designed deep learning pipelines to predict childhood leukemia and eye disease risks with DNA methylation
+  * Built bioinformatics pipelines for germline/somatic variant discovery with WGS data
+  * Trained new PhD students and pediatrician research fellows                                                                                                                                                                              
 
   """
 
@@ -46,8 +45,9 @@ date_format = "Jan 2006"
   description = """
   ---
   
-  * Conducted high-throughput association models (GWAS, EWAS) to investigate the associations between neonatal (epi-)genetic changes and disease risks
-  * Conducted ancestry analysis to investigate contribution of European ancestry to Latino population disease risks
+  * Conducted high-throughput association models to investigate associations between disease risks and neonatal genetics, epigenetics, cytokines, T-cell receptors, and nucleated cell proportions
+  * Performed ancestry analysis to investigate contribution of European ancestry to Latino population disease risks
+
   """
 
 [[experience]]
@@ -60,8 +60,10 @@ date_format = "Jan 2006"
   description = """
   ---
   
-  * Conducted childhood leukemia GWAS analyses; pesticide exposure EWAS analysis 
-  * Assessed telomere length and aging changes using DNA methylation data in children with childhood leukemia. 
+  * Carried out childhood leukemia GWAS analyses; pesticide exposure EWAS analyses 
+  * Assessed telomere length and aging changes in children with childhood leukemia
+  * Managed and monitored proper use of UC Berkeley HPC and delivered routine reports on research progress 
+
   """
 
 [[experience]]
@@ -75,6 +77,8 @@ date_format = "Jan 2006"
   ---
   
   * Applied machine learning methods to predict portal pressure and patient outcome from CT-based radiomics
+  * Collaborated with surgeons and internal doctors on data collection, experiment design and manuscript writing 
+
   """
 
 +++
