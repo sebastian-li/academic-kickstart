@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Periconceptional folate intake influences DNA methylation at birth based on dietary source in an analysis of pediatric acute lymphoblastic leukemia cases and controls"
+title: "DNA methylation at birth in monozygotic twins discordant for pediatric acute lymphoblastic leukemia"
 authors: [Eric Nickels, Shaobo Li, Swe Swe Myint, Katti Arroyo, Qianxi Feng, Kimberly Siegmund, Adam de Smith, Joseph L. Wiemels]
 date: 2022-10-14
 doi: "https://doi.org/10.1038/s41467-022-33677-z"
