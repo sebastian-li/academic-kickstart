@@ -64,7 +64,6 @@ email: ""
 #- Visitors
 ---
 
-My name is Sebastian (Shaobo) Li. I am currently working as a postdoc at the Center for Genetic Epidemiology at University of Southern California (USC).
-I recently graduated from the Cancer Biology and Genomics PhD program at the USC Keck School of Medicine. Advised by two amazing scientists, [Dr Joseph L. Wiemels](https://keck.usc.edu/faculty-search/joseph-leo-wiemels/) and [Dr Adam de Smith](https://keck.usc.edu/faculty-search/adam-de-smith/) during my PhD, I was trained as a bioinformatician with a focus on genetic epidemiology. My research involves using genetic and epigenetic association analyses, ancestry analyses and machine learning/deep learning models to understand risks of childhood cancers. 
+My name is Sebastian (Shaobo) Li. I graduated from the Cancer Biology and Genomics PhD program at the USC Keck School of Medicine.I was trained as a bioinformatician with a focus on genetic epidemiology. My research involves using genetic and epigenetic association analyses, ancestry analyses and machine learning/deep learning models to understand risks of childhood cancers. 
 
 I have a wide range of interests. Learning new tools, ideas and skills always excites me.
