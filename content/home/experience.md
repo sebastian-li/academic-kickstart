@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Los Angeles, CA"
   date_start = "2022-05-15"
-  date_end = ""
+  date_end = "2022-11-27"
   description = """
   ---
 
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Predoctoral fellow, Research Assistant"
+  title = "Predoctoral research fellow, Research Assistant"
   company = "University of Southern California, Center for Genetic Epidemiology"
   company_url = ""
   location = "Los Angeles, CA"
@@ -56,7 +56,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Berkeley, CA"
   date_start = "2019-07-01"
-  date_end = ""
+  date_end = "2022-11-27"
   description = """
   ---
   
@@ -67,7 +67,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Volunteer Clinical Researcher"
+  title = "Clinical Researcher (Volunteer)"
   company = "Zhongshan Hospital"
   company_url = ""
   location = "Shanghai, China"
