@@ -3,7 +3,7 @@
 
 title: "Meta-analysis of DNA methylation datasets shows aberrant DNA methylation of thyroid development or function genes in Down syndrome"
 authors: [Peter Lauffer, Nitash Zwaveling-Soonawala, Shaobo Li, Maria G Bacalini, Oxana Y Naumova, Joseph Wiemels, Anita Boelen, Peter Henneman, Adam de Smith, A. S. Paul van Trotsenburg]
-date: 2022-11-3
+date: 2022-11-03
 doi: "https://doi.org/10.1089/thy.2022.0320"
 
 # Schedule page publish date (NOT publication's date).
