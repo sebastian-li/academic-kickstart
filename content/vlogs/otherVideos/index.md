@@ -6,7 +6,7 @@ summary: "My other miscellaneous projects"
 authors: []
 tags: []
 categories: []
-date: "2022-05-03"
+# date: "2022-05-03"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -38,6 +38,10 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+---
+
+* A Hot Ones Party With USC Medical Students and graduate students
+{{< youtube J9O9ob1_sOk >}}
 ---
 
 * Video I made for program recruitment: HSC Campus and USC Village Tour
